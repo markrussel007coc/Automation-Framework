@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestData>
+
+  <practicalexam>
+    <covertype>Single</covertype>
+    <postcode>2000</postcode>
+    <age>23</age>
+    <currentinsurer>I don't currently have a fund</currentinsurer>
+    <name>Bogus Lead</name>
+    <phone>0410 000 000</phone>
+    <email>test@test.io</email>
+    <hospital>Gold</hospital>
+    <extras>Medium</extras>
+  </practicalexam>
+
+
+</TestData>
