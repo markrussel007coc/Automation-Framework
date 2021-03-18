@@ -28,7 +28,7 @@ namespace Automation_for_HBAR.Test
 
         [TestMethod, TestCategory("Smoke")]
 
-        [DataSource("Microsoft.VisualStudio.TestTools.DataSource.XML", "TestData\\TestData.xml", "practicalexam", DataAccessMethod.Sequential)]
+        [DataSource("Microsoft.VisualStudio.TestTools.DataSource.XML", "TestData\\TestData.xml", "testdata", DataAccessMethod.Sequential)]
         public void AutomationDemo()
         {
             test = extent.CreateTest("Test Case #001 Demo");
