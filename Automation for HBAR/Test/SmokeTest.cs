@@ -33,7 +33,7 @@ namespace Automation_for_HBAR.Test
         {
             test = extent.CreateTest("Test Case #001 Demo");
             test.Log(Status.Info, "Go to URL");
-            //UseText OI = new UseText();
+
             //Get Test Parameters
             String CoverType = Convert.ToString(TestContext.DataRow["covertype"]);
             String PostCode = Convert.ToString(TestContext.DataRow["postcode"]);
